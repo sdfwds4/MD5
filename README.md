@@ -9,8 +9,10 @@ gcc -o md5 md5.c
 ```
 
 ## Usage
-```
 usage:
+```
     md5 -f file
     md5 string
 ```
+## License
+Apache License
